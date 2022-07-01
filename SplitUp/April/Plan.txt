@@ -1,0 +1,19 @@
+Python tokens (keyword, identifier, literal, operator, punctuator), variables, concept of l-value and r-value, use of comments
+Knowledge of data types: number (integer, floating point, complex), boolean, sequence (string, list, tuple), None, mapping (dictionary), mutable and immutable data types
+Operators: arithmetic operators, relational operators, logical operators, assignment operator, augmented assignment operators, identity operators (is, is not), membership operators (in, not in)
+Expressions, statement, type conversion & input/output: precedence of operators, expression, evaluation of expression, python statement, type conversion (explicit & implicit conversion), accepting data as input from the console and displaying output
+Errors: syntax errors, logical errors, runtime errors
+Flow of control: introduction, use of indentation, sequential flow, conditional and iterative flow control
+Conditional statements: if, if-else, if-elif-else, flowcharts, simple programs: e.g.: absolute value, sort 3 numbers and divisibility of a number
+Iterative statements: for loop, range function, while loop, flowcharts, break and continue statements, nested loops, suggested programs: generating pattern, summation of series, finding
+the factorial of a positive number etc
+Strings: introduction, indexing, string operations (concatenation, repetition, membership & slicing), traversing a string using loops, built-in functions: len(), capitalize(), title(), lower(), upper(), count(), find(), index(), endswith(), startswith(), isalnum(), isalpha(), isdigit(), islower(), isupper(), isspace(), lstrip(), rstrip(), strip(), replace(), join(), partition(), split()
+Lists: introduction, indexing, list operations (concatenation, repetition, membership & slicing), traversing a list using loops, built-in functions: len(), list(), append(), extend(), insert(), count(), index(), remove(), pop(), reverse(), sort(), sorted(), min(), max(), sum(); nested lists, suggested programs: finding the maximum, minimum, mean of numeric values stored in a list; linear search on list of numbers and counting the frequency of elements in a list
+Tuples: introduction, indexing, tuple operations (concatenation, repetition, membership & slicing), built-in functions: len(), tuple(), count(), index(), sorted(), min(), max(), sum(); tuple assignment, nested tuple, suggested programs: finding the minimum, maximum, mean of values stored in a tuple; linear search on a tuple of numbers, counting the frequency of elements in a tuple
+Dictionary: introduction, accessing items in a dictionary using keys, mutability of dictionary (adding a new item, modifying an existing item), traversing a dictionary, built-in functions: len(), dict(), keys(), values(), items(), get(), update(), del, clear(), fromkeys(), copy(), pop(), popitem(), setdefault(), max(), min(), count(), sorted(), copy(); suggested programs : count the number of
+times a character appears in a given string using a dictionary, create a dictionary with names of employees, their salary and access them
+Introduction to Python modules: Importing module using 'import <module>' and using from statement, Importing math module (pi, e, sqrt, ceil, floor, pow, fabs, sin, cos, tan); random module
+(random, randint, randrange), statistics module (mean, median, mode)
+Revision of Python topics covered in Class XI.
+Functions: types of function (built-in functions, functions defined in module, user defined functions), creating user defined function, arguments and parameters, default parameters, positional parameters, function returning value(s), flow of
+execution, scope of a variable (global scope, local scope
